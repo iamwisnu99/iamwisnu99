@@ -31,6 +31,17 @@ Berikut adalah beberapa proyek yang saya kerjakan selama proses belajar:
 
 ---
 
+<div align="center">
+  <h3>Statistik GitHub Saya</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=iamwisnu99&show_icons=true&theme=light" alt="GitHub Stats" />
+  <br/>
+  <br/>
+  <h3>Bahasa Paling Sering Digunakan</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamwisnu99&layout=compact&theme=light" alt="Top Languages" />
+</div>
+
+---
+
 ### 📫 Hubungi Saya
 
 <p align="left">
