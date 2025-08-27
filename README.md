@@ -20,7 +20,7 @@ Saya adalah seorang pembelajar yang bersemangat dalam dunia pengembangan web. Pe
 
 ---
 
-### 📂 Proyek Unggulan
+### 📂 Proyek Utama Saya
 
 Berikut adalah beberapa proyek yang saya kerjakan selama proses belajar:
 
@@ -34,11 +34,11 @@ Berikut adalah beberapa proyek yang saya kerjakan selama proses belajar:
 ### 📫 Hubungi Saya
 
 <p align="left">
-  <a href="mailto:emailanda@gmail.com">
+  <a href="mailto:wisnu.bussines99@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/nama-anda/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.instagram.com/prma_Wsn11/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
