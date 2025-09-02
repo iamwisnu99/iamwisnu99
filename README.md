@@ -32,14 +32,6 @@
       <img alt="LPGApp" src="https://github-readme-stats.vercel.app/api/pin/?username=iamwisnu99&repo=LPGApp">
     </picture>
   </a>
-
-  <a href="https://github.com/iamwisnu99/menyusul">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=iamwisnu99&repo=menyusul&theme=tokyonight&hide_border=true">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=iamwisnu99&repo=menyusul&theme=default&hide_border=true">
-      <img alt="Repo Menyusul" src="https://github-readme-stats.vercel.app/api/pin/?username=iamwisnu99&repo=menyusul">
-    </picture>
-  </a>
 </p>
 
 ---
@@ -95,8 +87,7 @@
 
 ### 🤝 Kontak
 <p align="center">
-  <a href="mailto:primawisnu99@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/iamwisnu99">💼 LinkedIn</a> •
+  <a href="mailto:primawisnu99@gmail.com">📧 Email</a> • 
   <a href="https://wisnu.dev">🌐 Portfolio</a>
 </p>
 
