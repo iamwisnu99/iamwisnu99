@@ -1,56 +1,111 @@
-<h1 align="center">Halo, Saya Prima Wisnu! 👋</h1>
-<h3 align="center">Seorang pembelajar coding yang ingin meningkatkan keahlian saya</h3>
-
----
-
-### 🚀 Tentang Saya
-
-Saya adalah seorang pembelajar yang bersemangat dalam dunia pengembangan web. Perjalanan saya dimulai dengan **HTML** untuk membuat struktur halaman web, lalu berlanjut ke **CSS** untuk memberikan gaya dan keindahan pada tata letak. Saat ini, saya sedang mendalami **JavaScript** untuk membuat halaman web menjadi interaktif dan dinamis. Setiap baris kode adalah tantangan baru yang saya nikmati.
-
----
-
-### 🛠️ Keahlian
-
-<p align="left" border-radius="8px" >
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
-</p>
-
----
-
-### 📂 Proyek Utama Saya
-
-Berikut adalah beberapa proyek yang saya kerjakan selama proses belajar:
-
-* **Proyek A**: [LPGApp](https://github.com/iamwisnu99/LPGApp) <br>
-    Deskripsi: Halaman web statis sederhana yang dibuat menggunakan HTML dan CSS untuk mendesain portofolio mini.
-* **Proyek B**: [Tautan ke Proyek B](https://github.com/nama-pengguna/nama-repo-proyek-b) <br>
-    Deskripsi: Game tebak angka interaktif yang dibuat dengan JavaScript.
-
----
-
-<div align="center">
-  <h3>Statistik GitHub Saya</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=iamwisnu99&show_icons=true&theme=light" alt="GitHub Stats" />
-</div>
-
----
-
-### 📫 Hubungi Saya
-
-<p align="left" border-radius="8px">
-  <a href="mailto:wisnu.bussines99@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.instagram.com/prma_Wsn11/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
-
----
+<!-- PROFIL README – FINAL ADAPTIF DARK/LIGHT MODE -->
 
 <p align="center">
-  <sub>Terakhir diperbarui pada: 27 AGUSTUS 2025</sub>
+  <picture>
+    <!-- Dark -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1200&color=00FFCC&center=true&vCenter=true&width=720&lines=Halo%2C+aku+Wisnu+%F0%9F%91%8B;Administrator+%7C+Tech+Explorer+%7C+Web+Dev;Clean+Code+%26+Modern+Design">
+    <!-- Light -->
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1200&color=007ACC&center=true&vCenter=true&width=720&lines=Halo%2C+aku+Wisnu+%F0%9F%91%8B;Administrator+%7C+Tech+Explorer+%7C+Web+Dev;Clean+Code+%26+Modern+Design">
+    <img alt="Typing intro" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1200&width=720&lines=Halo%2C+aku+Wisnu+%F0%9F%91%8B">
+  </picture>
 </p>
+
+---
+
+### 🧰 Tech Stack
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs,nodejs,express,python,fastapi,java,spring,php,laravel,mysql,postgres,mongodb,redis,docker,git,github,linux&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs,nodejs,express,python,fastapi,java,spring,php,laravel,mysql,postgres,mongodb,redis,docker,git,github,linux&theme=light">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs,nodejs,express,python,fastapi,java,spring,php,laravel,mysql,postgres,mongodb,redis,docker,git,github,linux" alt="Tech Stack">
+  </picture>
+</p>
+
+---
+
+### 🌟 Proyek Populer
+<p align="center">
+  <a href="https://github.com/iamwisnu99/LPGApp">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=iamwisnu99&repo=LPGApp&theme=tokyonight&hide_border=true">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=iamwisnu99&repo=LPGApp&theme=default&hide_border=true">
+      <img alt="LPGApp" src="https://github-readme-stats.vercel.app/api/pin/?username=iamwisnu99&repo=LPGApp">
+    </picture>
+  </a>
+
+  <a href="https://github.com/iamwisnu99/menyusul">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=iamwisnu99&repo=menyusul&theme=tokyonight&hide_border=true">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=iamwisnu99&repo=menyusul&theme=default&hide_border=true">
+      <img alt="Repo Menyusul" src="https://github-readme-stats.vercel.app/api/pin/?username=iamwisnu99&repo=menyusul">
+    </picture>
+  </a>
+</p>
+
+---
+
+### 📊 Statistik
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=iamwisnu99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=iamwisnu99&show_icons=true&theme=default&hide_border=true&count_private=true">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=iamwisnu99">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=iamwisnu99&theme=tokyonight&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=iamwisnu99&theme=default&hide_border=true">
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=iamwisnu99">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=iamwisnu99&layout=compact&langs_count=8&theme=tokyonight&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=iamwisnu99&layout=compact&langs_count=8&theme=default&hide_border=true">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamwisnu99&layout=compact&langs_count=8">
+  </picture>
+</p>
+
+---
+
+### 🏆 Trophy
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=iamwisnu99&theme=tokyonight&no-frame=true&margin-w=15&row=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=iamwisnu99&theme=flat&no-frame=true&margin-w=15&row=1">
+    <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=iamwisnu99">
+  </picture>
+</p>
+
+---
+
+### 📈 Activity Graph
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=iamwisnu99&theme=tokyo-night&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=iamwisnu99&theme=github-light&hide_border=true">
+    <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=iamwisnu99">
+  </picture>
+</p>
+
+---
+
+### 🤝 Kontak
+<p align="center">
+  <a href="mailto:primawisnu99@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/iamwisnu99">💼 LinkedIn</a> •
+  <a href="https://wisnu.dev">🌐 Portfolio</a>
+</p>
+
+---
+
+<details>
+  <summary>📝 Fun Facts</summary>
+  <br/>
+  • Dark mode loyalist 🌑  
+  • Kopi + kode = produktif ☕💻  
+  • Commit awal jarang final ✍️  
+</details>
