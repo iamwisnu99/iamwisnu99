@@ -15,11 +15,20 @@
 ### 🧰 Tech Stack
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs,nodejs,express,python,fastapi,java,spring,php,laravel,mysql,postgres,mongodb,redis,docker,git,github,linux&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs,nodejs,express,python,fastapi,java,spring,php,laravel,mysql,postgres,mongodb,redis,docker,git,github,linux&theme=light">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs,nodejs,express,python,fastapi,java,spring,php,laravel,mysql,postgres,mongodb,redis,docker,git,github,linux" alt="Tech Stack">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs,nodejs,express,python,fastapi&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs,nodejs,express,python,fastapi&theme=light">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs,nodejs,express,python,fastapi" />
   </picture>
 </p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,php,laravel,mysql,postgres,mongodb,redis,docker,git,github,linux&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,spring,php,laravel,mysql,postgres,mongodb,redis,docker,git,github,linux&theme=light">
+    <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,mysql,postgres,mongodb,redis,docker,git,github,linux" />
+  </picture>
+</p>
+
 
 ---
 
