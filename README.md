@@ -24,7 +24,7 @@ Saya adalah seorang pembelajar yang bersemangat dalam dunia pengembangan web. Pe
 
 Berikut adalah beberapa proyek yang saya kerjakan selama proses belajar:
 
-* **Proyek A**: [LPGApp](https://github.com/iamwisnu99/LPGApp) <br>
+* **Proyek A**: [LPG App](https://github.com/iamwisnu99/LPGApp) <br>
     Deskripsi: Halaman web statis sederhana yang dibuat menggunakan HTML dan CSS untuk mendesain portofolio mini.
 * **Proyek B**: [Secret Chat](https://github.com/iamwisnu99/secret-chat) <br>
     Deskripsi: Game tebak angka interaktif yang dibuat dengan JavaScript.
