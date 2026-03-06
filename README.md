@@ -26,7 +26,7 @@ Berikut adalah beberapa proyek yang saya kerjakan selama proses belajar:
 
 * **Proyek A**: [MAP - Helper](https://github.com/iamwisnu99/map-helper) <br>
     Deskripsi: Halaman web statis sederhana yang dibuat menggunakan HTML dan CSS untuk mendesain portofolio mini.
-* **Proyek B**: [Secret Chat](https://github.com/iamwisnu99/secret-chat) <br>
+* **Proyek B**: [Web License](https://github.com/iamwisnu99/strukapp-license) <br>
     Deskripsi: Game tebak angka interaktif yang dibuat dengan JavaScript.
 
 ---
