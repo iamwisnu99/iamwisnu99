@@ -33,8 +33,8 @@ Berikut adalah beberapa proyek yang saya kerjakan selama proses belajar:
 
 <div align="center">
   <h3>Statistik GitHub Saya</h3>
-  [![Prima GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=iamwisnu99&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-  [![Prima GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=iamwisnu99&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+  [Prima GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=iamwisnu99&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+  [Prima GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=iamwisnu99&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 </div>
 
 ---
