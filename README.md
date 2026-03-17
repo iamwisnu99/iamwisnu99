@@ -1,57 +1,41 @@
-<h1 align="center">Halo, Saya Prima Wisnu! 👋</h1>
-<h3 align="center">Seorang pembelajar coding yang ingin meningkatkan keahlian saya</h3>
+# Hi, I'm Wisnu 👋
+**Application Developer | Backend Maintenance | Cloud Deployment**
+
+A results-driven developer focused on building scalable backend systems and secure automated solutions. Passionate about clean code, client-side privacy, and seamless payment integrations.
 
 ---
 
-### 🚀 Tentang Saya
-
-Saya adalah seorang pembelajar yang bersemangat dalam dunia pengembangan web. Perjalanan saya dimulai dengan **HTML** untuk membuat struktur halaman web, lalu berlanjut ke **CSS** untuk memberikan gaya dan keindahan pada tata letak. Saat ini, saya sedang mendalami **JavaScript** untuk membuat halaman web menjadi interaktif dan dinamis. Setiap baris kode adalah tantangan baru yang saya nikmati.
-
----
-
-### 🛠️ Keahlian
-
-<p align="left" border-radius="8px" >
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
-</p>
+### 🛠️ Core Tech Stack
+- **Languages:** JavaScript (ES6+), Java (Android Native), PHP.
+- **Backend & Cloud:** Node.js, Firebase (Realtime Database & Auth), Netlify CLI, Supabase.
+- **Tools & Integration:** Midtrans Payment Gateway, Android Studio, Git, RESTful APIs.
 
 ---
 
-### 📂 Proyek Utama Saya
-
-Berikut adalah beberapa proyek yang saya kerjakan selama proses belajar:
-
-* **Proyek A**: [MAP - Helper](https://github.com/iamwisnu99/map-helper) <br>
-    Deskripsi: Halaman web statis sederhana yang dibuat menggunakan HTML dan CSS untuk mendesain portofolio mini.
-* **Proyek B**: [Web License](https://github.com/iamwisnu99/strukapp-license) <br>
-    Deskripsi: Game tebak angka interaktif yang dibuat dengan JavaScript.
+### 🚀 Current Focus
+-  **Automation:** Developing automated license management systems with integrated payment gateways.
+-  **Android Dev:** Building native applications with a focus on business administrative monitoring.
+-  **Web Tools:** Crafting high-performance utility tools (JSON converters, Web Auditing tools).
 
 ---
 
-<div align="center">
-  <h3>Statistik GitHub Saya</h3>
-  [Prima GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=iamwisnu99&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-  [Prima GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=iamwisnu99&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-</div>
+### 📂 Featured Projects
+- **LPG Management System:** A specialized application for gas station administrative monitoring and license compliance.
+- **JSON Environment Converter:** A minimalist web tool to convert multi-line JSON into single-line formats for `.env` configurations.
+- **Travel Animation Generator:** (In Progress) A web-based visualizer for travel routes with dynamic checkpoint animations.
 
 ---
 
-### 📫 Hubungi Saya
-
-<p align="left" border-radius="8px">
-  <a href="mailto:wisnu.bussines99@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.instagram.com/prma_Wsn11/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
+### 📈 GitHub Stats
+![iamwisnu99's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamwisnu99&show_icons=true&theme=transparent&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamwisnu99&layout=compact&theme=transparent&hide_border=true)
 
 ---
 
-<p align="center">
-  <sub>Terakhir diperbarui pada: 27 AGUSTUS 2025</sub>
-</p>
+### 📫 Connect with Me
+- **Email:** [wisnu.bussines99@gmail.com](mailto:wisnu.bussines99@gmail.com)
+- **Portfolio:** [PrimaDev](https://apps-primadev.netlify.app)
+- **Based in:** Jakarta / Banyumas, Indonesia 🇮🇩
+
+---
+*"Code is like humor. When you have to explain it, it’s bad."*
