@@ -33,8 +33,8 @@ A results-driven developer focused on building scalable backend systems and secu
 ---
 
 ### 📫 Connect with Me
-- **Email:** [wisnu.bussines99@gmail.com](mailto:wisnu.bussines99@gmail.com)
-- **Portfolio:** [PrimaDev](https://apps-primadev.netlify.app)
+- **Email:** [wisnu.bussines99@gmail.com](mailto:primawisnu9@gmail.com)
+- **Portfolio:** [Prima Wisnu](https://primawisnu.my.id)
 - **Based in:** Jakarta / Banyumas, Indonesia 🇮🇩
 
 ---
